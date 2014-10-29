@@ -1,4 +1,4 @@
 numerical-simulation-organizer
 ==============================
 
-Python library for 
+Python library for maintaining relations between numerical simulations. 
